@@ -1,0 +1,21 @@
+.container{
+  width:960px;
+  height:auto;
+  border: 1px solid black;
+  overflow:hidden;
+  margin:auto;
+}
+.object{
+  border:1px solid white;
+  background-color: black;
+  float:left;
+}
+.objectColor{
+  background-color: red;
+}
+body{
+  background-color:grey;
+}
+h1{
+
+}
